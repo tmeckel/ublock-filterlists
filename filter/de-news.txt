@@ -1,0 +1,43 @@
+www.stern.de##.bannerSternPlus
+www.stern.de##div.apa-widget
+
+www.golem.de##.modal__header
+www.golem.de##.modal__body
+www.golem.de##.show.modal
+www.golem.de##div.clearfix:has(> div.OUTBRAIN)
+www.golem.de##div.wraptusplit
+www.golem.de##[id^="iqadtile"]
+forum.golem.de##[id^="iqadtile"]
+forum.golem.de##.section-gpure
+
+finanzen.net##.cmp-placeholder-box
+finanzen.net##.bs-wrapper
+finanzen.net##.fixed-height-desktop-only
+finanzen.net##DIV[id="bs_abstand"]
+finanzen.net##DIV[id="UserRegistrierungErinnerer"]
+finanzen.net##DIV[id="showpopup"]
+/mediacenter/*/img/*$domain=finanzen.net
+finanzen.net##.sticky-height-prefix
+
+www.heise.de##.a-layout__sidebar
+www.heise.de##.perf-cls-reduc-leaderboard
+www.heise.de##div.a-layout__main:style(width: 100% !important)
+www.heise.de##[class*="wrbng"]
+www.heise.de##[class="article-sidebar"]
+www.heise.de##[data-component="MarketingTeaserModule"]
+www.heise.de##[data-component="AdModule"]
+www.heise.de##[data-component="NewAdModule"]
+www.heise.de##[data-component="PreisvergleichModule"]
+www.heise.de##div:has(> article[data-cid=""])
+www.heise.de##header.a-article-header:style(max-width: 100% !important)
+www.heise.de##div.article-layout__content:style(max-width: 100% !important)
+www.heise.de##section.place-items-center > section:style(width: 100% !important; max-width: 100% !important)
+www.heise.de##.branding
+www.heise.de##.recommendations
+www.heise.de##iframe[src^="https://api.heise.de"]
+www.heise.de##embetty-tweet:style(max-width: 100% !important)
+www.heise.de##.a-article-branding:has-text(techstage)
+www.heise.de###KamCont
+www.heise.de##.flex-1.p-3
+www.heise.de##a-ad
+www.heise.de##div.us_ad
