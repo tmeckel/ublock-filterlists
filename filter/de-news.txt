@@ -54,3 +54,10 @@ www.heise.de##div.us_ad
 app.handelsblatt.com##.c-desktop
 app.handelsblatt.com##[class^="vhb-cls"]
 app.handelsblatt.com##[class*="ad-article"]
+
+kachelmannwetter.com##.sdgAdServerAnchor
+kachelmannwetter.com##.dkpw-billboard-margin-fixed
+kachelmannwetter.com##.sdgAnzeigenkennung
+kachelmannwetter.com##.sdgSpinner
+kachelmannwetter.com##.dkpw-deleteads
+kachelmannwetter.com##.adblocker
