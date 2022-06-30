@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202206271802
+! Version: 202206301708
 ! Title: DE-NEWS-CustomFilterList
-! Last modified: 27 Jun 2022 18:02 UTC
+! Last modified: 30 Jun 2022 17:02 UTC
 
 *.stern.de/bod*
 /[a-z]{4}[a-zA-Z0-9]+\.gif/*,domain=stern.de
@@ -61,3 +61,5 @@ kachelmannwetter.com##.sdgAnzeigenkennung
 kachelmannwetter.com##.sdgSpinner
 kachelmannwetter.com##.dkpw-deleteads
 kachelmannwetter.com##.adblocker
+
+www.fnp.de##div.id-StoryElement-beepWrap
