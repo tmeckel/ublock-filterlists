@@ -9,6 +9,7 @@
 www.stern.de##.bannerSternPlus
 www.stern.de##div.apa-widget
 www.stern.de##.page__top-ad-wrapper
+www.stern.de##^x-embed
 
 www.golem.de##.modal__header
 www.golem.de##.modal__body
