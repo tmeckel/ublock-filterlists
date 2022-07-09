@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202206301708
+! Version: 202207091731
 ! Title: DE-NEWS-CustomFilterList
-! Last modified: 30 Jun 2022 17:02 UTC
+! Last modified: 09 Jul 2022 17:31 UTC
 
 *.stern.de/bod*
 /[a-z]{4}[a-zA-Z0-9]+\.gif/*,domain=stern.de
