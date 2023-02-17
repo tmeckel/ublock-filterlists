@@ -51,6 +51,7 @@ www.heise.de###KamCont
 www.heise.de##.flex-1.p-3
 www.heise.de##a-ad
 www.heise.de##div.us_ad
+www.heise.de##a-sticky-footer
 
 app.handelsblatt.com##.c-desktop
 app.handelsblatt.com##[class^="vhb-cls"]
