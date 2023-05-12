@@ -11,14 +11,15 @@ www.stern.de##div.apa-widget
 www.stern.de##.page__top-ad-wrapper
 www.stern.de##^x-embed
 
-www.golem.de##.modal__header
-www.golem.de##.modal__body
-www.golem.de##.show.modal
-www.golem.de##div.clearfix:has(> div.OUTBRAIN)
-www.golem.de##div.wraptusplit
-www.golem.de##[id^="iqadtile"]
-forum.golem.de##[id^="iqadtile"]
+golem.de##.modal__header
+golem.de##.modal__body
+golem.de##.show.modal
+golem.de##div.clearfix:has(> div.OUTBRAIN)
+golem.de##div.wraptusplit
+golem.de##[id^="iqadtile"]
 forum.golem.de##.section-gpure
+golem.de##^script:has-text(ABCDEFGHIJKLMNOPQRSTUVWXYZ)
+golem.de##div:has(> .adsbygoogle)
 
 finanzen.net##.cmp-placeholder-box
 finanzen.net##.bs-wrapper
