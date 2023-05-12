@@ -66,3 +66,5 @@ kachelmannwetter.com##.dkpw-deleteads
 kachelmannwetter.com##.adblocker
 
 www.fnp.de##div.id-StoryElement-beepWrap
+
+spiegel.de##^script:has-text(data:image)
