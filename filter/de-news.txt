@@ -65,6 +65,9 @@ kachelmannwetter.com##.sdgSpinner
 kachelmannwetter.com##.dkpw-deleteads
 kachelmannwetter.com##.adblocker
 
-www.fnp.de##div.id-StoryElement-beepWrap
+fnp.de##^script:has-text(document.createElement("script"))
+fnp.de##div.id-StoryElement-beepWrap
+fnp.de##div.id-TBeepSlot
+fnp.de##div.wv_story_el_glomex
 
 spiegel.de##^script:has-text(data:image)
