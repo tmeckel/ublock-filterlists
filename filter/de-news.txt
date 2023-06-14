@@ -6,10 +6,13 @@
 *.stern.de/bod*
 /[a-z]{4}[a-zA-Z0-9]+\.gif/*,domain=stern.de
 /js/webtrekk*$domain=stern.de
-www.stern.de##.bannerSternPlus
-www.stern.de##div.apa-widget
-www.stern.de##.page__top-ad-wrapper
-www.stern.de##^x-embed
+stern.de##.bannerSternPlus
+stern.de##div.apa-widget
+stern.de##.page__top-ad-wrapper
+stern.de##^x-embed
+stern.de##^script[src*="adver"]
+stern.de##^script[src*="www.stern.de/"][async]
+stern.de##^[referrerpolicy]
 
 golem.de##.modal__header
 golem.de##.modal__body
@@ -71,3 +74,4 @@ fnp.de##div.id-TBeepSlot
 fnp.de##div.wv_story_el_glomex
 
 spiegel.de##^script:has-text(data:image)
+
