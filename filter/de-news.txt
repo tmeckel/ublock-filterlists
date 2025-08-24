@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202207091731
+! Version: 202508242053
 ! Title: DE-NEWS-CustomFilterList
-! Last modified: 09 Jul 2022 17:31 UTC
+! Last modified: 24 Aug 2025 20:53 UTC
 
 *.stern.de/bod*
 /[a-z]{4}[a-zA-Z0-9]+\.gif/*,domain=stern.de
@@ -23,6 +23,10 @@ golem.de##[id^="iqadtile"]
 forum.golem.de##.section-gpure
 golem.de##^script:has-text(ABCDEFGHIJKLMNOPQRSTUVWXYZ)
 golem.de##div:has(> .adsbygoogle)
+golem.de##.go-teaser-block--career.go-teaser-block
+golem.de##.go-ad-slot
+golem.de##li:has(.go-label--sponsored)
+golem.de##li:has(.go-plus-sign)
 
 finanzen.net##.cmp-placeholder-box
 finanzen.net##.bs-wrapper
@@ -32,6 +36,9 @@ finanzen.net##DIV[id="UserRegistrierungErinnerer"]
 finanzen.net##DIV[id="showpopup"]
 /mediacenter/*/img/*$domain=finanzen.net
 finanzen.net##.sticky-height-prefix
+finanzen.net##div.page-content__container
+finanzen.net##.page-footer__placements
+finanzen.net##.relative.mrec-height-prefix
 
 www.heise.de##.a-layout__sidebar
 www.heise.de##.perf-cls-reduc-leaderboard
@@ -75,3 +82,4 @@ fnp.de##div.wv_story_el_glomex
 
 spiegel.de##^script:has-text(data:image)
 
+t3n.de##.c-ad-container
